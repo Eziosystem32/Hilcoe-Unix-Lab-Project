@@ -14,7 +14,8 @@ run the loader.sh first and wait it to load
 after done the main menu should appear
 
 ![alt text](https://github.com/Eziosystem32/Hilcoe-Unix-Lab-Project/blob/main/imgs/main_menu.png)
-
+> [!NOTE]
+> Dont type Till you see the "choie:" prompt or else it might endup in an error
 ### Main Menu navigation:
   ![alt text](https://github.com/Eziosystem32/Hilcoe-Unix-Lab-Project/blob/main/imgs/main_menu.png)
   
@@ -103,6 +104,14 @@ now enter the fill/partial words that are in the contact's info one of the info 
 and walah.. here is all the contacts in the databaset with those characters.
 
 ![alt text](https://github.com/Eziosystem32/Hilcoe-Unix-Lab-Project/blob/main/imgs/search_ou.png)
+
+and after that this prompt is gonna show up 
+
+![alt text](https://github.com/Eziosystem32/Hilcoe-Unix-Lab-Project/blob/main/imgs/prompt.png)
+
+chose Y to get back to the main menu N to try anothet search
+> [!NOTE]
+> Use caps Y or N to enteract or it will assume it as a yes
 
 ### Changeing the UI color
 
