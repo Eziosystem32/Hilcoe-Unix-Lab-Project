@@ -21,7 +21,7 @@ typeit "Contact added!"
 #--------------------------------------
 #contact grouping
 sleep 1
-typeit ===================================
+typeit ====================================
 typeit "what catagorry is this contact?"
 typeit "1. Family"
 typeit "2. Friends"
