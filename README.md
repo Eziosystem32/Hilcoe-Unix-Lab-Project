@@ -1,10 +1,20 @@
+# Contact manager
+
+This bash Shell script is a contact manager app with vast features.
+### featurs include:
+  - fun and easy User experiance.
+  - groups for your contacts
+  - customaisabe color schemes
+  - editable contact info
+## Usage:
+run the loader.sh first and wait it to load
 # Changelog
 
 ## V0.8 : April 26
 
 Added edit contacts feature
 Added clipart for edit contacts
-
+fixed keyboard input bug during printing
 ## V0.7 : April 22
 
 Added Remove contact option
