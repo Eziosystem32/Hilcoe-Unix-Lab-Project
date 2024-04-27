@@ -15,16 +15,16 @@ after done the main menu should appear
 
 ![alt text](https://github.com/Eziosystem32/Hilcoe-Unix-Lab-Project/blob/main/imgs/main_menu.png)
 > [!NOTE]
-> Dont type Till you see the "choie:" prompt or else it might endup in an error
+> Dont type Till you see the "choice:" prompt or else it might endup in an error
 ### Main Menu navigation:
   ![alt text](https://github.com/Eziosystem32/Hilcoe-Unix-Lab-Project/blob/main/imgs/main_menu.png)
   
-  - choice 1, Add Contact, This option is for adding contacts to your contacts database and assighn groups for them (optional).
+  -  1, Add Contact, This option is for adding contacts to your contacts database and assighn groups for them (optional).
   - choice 2, Remove contact, This option is for deleting contacts from your contact database and groups.
   - choice 3, Edit contact, This option is for editing contacts from your contact databse.
   - choice 4, Search contact, This option is for Searching Contacts from your contact database and groups.
   - choice 5, Veiw all contacts, This option prints all the contacts in the main contact database.
-  - choce 6, color options, This option lets you change the color of the ui.
+  - choice 6, color options, This option lets you change the color of the ui.
   - choice 7, exit, Do I need to Explain?
 ### Add contacts:
 chose 1 on the main menu by typing 1 in the console.
@@ -125,31 +125,31 @@ chose one of the colors and hit enter.
 
 #### This are the color schemes:
 
-choice 1 red :
+ 1 red :
 
 ![alt text](https://github.com/Eziosystem32/Hilcoe-Unix-Lab-Project/blob/main/imgs/col_mm_R.png)
 
-choice 2 green :
+ 2 green :
 
 ![alt text](https://github.com/Eziosystem32/Hilcoe-Unix-Lab-Project/blob/main/imgs/col_mm_G.png)
 
-choice 3 yellow :
+ 3 yellow :
 
 ![alt text](https://github.com/Eziosystem32/Hilcoe-Unix-Lab-Project/blob/main/imgs/col_mm_Y.png)
 
-choice 4 blue :
+ 4 blue :
 
 ![alt text](https://github.com/Eziosystem32/Hilcoe-Unix-Lab-Project/blob/main/imgs/col_mm_B.png)
 
-choice 5 magenta :
+ 5 magenta :
 
 ![alt text](https://github.com/Eziosystem32/Hilcoe-Unix-Lab-Project/blob/main/imgs/col_mm_M.png)
 
-choice 6 cyan :
+ 6 cyan :
 
 ![alt text](https://github.com/Eziosystem32/Hilcoe-Unix-Lab-Project/blob/main/imgs/col_mm_C.png)
 
-choice 7 white:
+ 7 white:
 
 ![alt text](https://github.com/Eziosystem32/Hilcoe-Unix-Lab-Project/blob/main/imgs/col_mm_W.png)
 
