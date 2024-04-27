@@ -47,6 +47,7 @@ echo -n ╚══════╝╚═╝░░╚═╝╚═╝░░╚═╝
 #------------------------------------end of error function
 #animation function
 typeit(){
+    perl -MPOSIX -e 'tcflush 0,0'
     local IFS=''
     while read -n1 c; do
     echo -n "$c"
@@ -183,6 +184,7 @@ col_sett(){
 #--------------------------------------------------end of menu clip arts
 #loading animation function
 function loading_icon() {
+    perl -MPOSIX -e 'tcflush 0,0'
     local load_interval="${1}"
     local loading_message="${2}"
     local elapsed=0
