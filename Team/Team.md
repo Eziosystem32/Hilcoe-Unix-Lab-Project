@@ -1,4 +1,4 @@
-![alt text](https://github.com/Eziosystem32/Hilcoe-Unix-Lab-Project/blob/main/imgs/logo.png)
+![alt text](https://github.com/Eziosystem32/Hilcoe-Unix-Lab-Project/blob/main/imgs/logo.jpg)
 
 # Team Members
 
@@ -7,4 +7,4 @@
 - Eyosias Simon        BP1680
 - Caleb Wendemageghu   K72713
 
-# Section: DRBSE2302A
+### Section: DRBSE2302A
