@@ -5,8 +5,10 @@
 
 #!/bin/bash
 
-../UI_mods.sh
+. ./UI_mods.sh
+
 desplay_cont
+
 typeit " Which category would you like to see "
 typeit =======================================
 typeit "1. All contacts" 
@@ -15,13 +17,13 @@ typeit "3. Friends contacts"
 typeit "4. Work place contacts"
 typeit "5. others"
 typeit "6. exit"
-
+echo choice
 read choice
 
 if [ $choice = 1 ]
 then 
 	typeit "All contacts" 
-	sed 's/,,/, ,/g;s/,,/, ,/g' all.csv | column -s, -t
+	sed 's/,,/, ,/g;s/,,/, ,/g' contacts.csv | column -s, -t
 
 elif [ $choice = 2 ]
 then 
@@ -73,3 +75,4 @@ typeit "I'll take that as a yes"
 
 ./assign_menu.sh
 fi
+
