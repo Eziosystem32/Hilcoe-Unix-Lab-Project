@@ -109,7 +109,7 @@ and after that this prompt is gonna show up
 
 ![alt text](https://github.com/Eziosystem32/Hilcoe-Unix-Lab-Project/blob/main/imgs/prompt.png)
 
-chose Y to get back to the main menu N to try anothet search
+chose Y to get back to the main menu N to try another search
 > [!NOTE]
 > Use caps Y or N to enteract or it will assume it as a yes
 
@@ -133,7 +133,7 @@ and after that this prompt is gonna show up
 
 ![alt text](https://github.com/Eziosystem32/Hilcoe-Unix-Lab-Project/blob/main/imgs/prompt.png)
 
-chose Y to get back to the main menu N to try anothet search
+chose Y to get back to the main menu N to desplay another stuff
 > [!NOTE]
 > Use caps Y or N to enteract or it will assume it as a yes
 
