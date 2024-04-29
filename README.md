@@ -127,7 +127,7 @@ this will appear:
   - choice 4, Display workplace
   - choice 5, Display others
 
-And it will just display the whole stuff
+And it will just display the whole stuff according to your choice!
 
 and after that this prompt is gonna show up 
 
