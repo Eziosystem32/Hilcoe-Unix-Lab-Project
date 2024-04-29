@@ -184,6 +184,12 @@ chose 7 on the man menu by typing 7 in the console.
 
 # Changelog
 
+## V0.9 : April 29
+
+Added Display option
+Fixed search function going to desplay when going with rety option bug
+Fixed Display option in the main menu
+Final release
 ## V0.8 : April 26
 
 Added edit contacts feature
