@@ -16,8 +16,7 @@ typeit "2. Family contacts"
 typeit "3. Friends contacts"
 typeit "4. Work place contacts"
 typeit "5. others"
-typeit "6. exit"
-echo choice
+echo -n choice
 read choice
 
 if [ $choice = 1 ]
