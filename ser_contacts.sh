@@ -54,7 +54,7 @@ then
 ./assign_menu.sh
 elif [ $choice = N ]
 then
-./desp_contacts.sh
+./ser_contacts.sh
 else
 typeit "alright "
 typeit "I'll take that as a yes"
