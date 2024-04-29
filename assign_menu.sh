@@ -46,7 +46,7 @@ clear
 elif [ $choice = 5 ]
 then
 clear
-./desp_contacts
+./desp_contacts.sh
 elif [ $choice = 6 ]
 then
 clear
