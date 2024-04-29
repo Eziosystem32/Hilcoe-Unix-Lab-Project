@@ -6,7 +6,7 @@
 #!/bin/bash
 
 ../UI_mods.sh
-
+desplay_cont
 typeit " Which category would you like to see "
 typeit =======================================
 typeit "1. All contacts" 
