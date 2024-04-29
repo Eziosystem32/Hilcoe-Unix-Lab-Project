@@ -113,6 +113,31 @@ chose Y to get back to the main menu N to try anothet search
 > [!NOTE]
 > Use caps Y or N to enteract or it will assume it as a yes
 
+### Desplaying contacts
+
+chose 5 on the man menu by typing 5 in the console.
+
+this will appear:
+
+![alt text](https://github.com/Eziosystem32/Hilcoe-Unix-Lab-Project/blob/main/imgs/disp_menu.png)
+
+  - choice 1, Display all
+  - choice 2, Display Famly
+  - choice 3, Display friends
+  - choice 4, Display workplace
+  - choice 5, Display others
+
+And it will just display the whole stuff
+
+and after that this prompt is gonna show up 
+
+![alt text](https://github.com/Eziosystem32/Hilcoe-Unix-Lab-Project/blob/main/imgs/prompt.png)
+
+chose Y to get back to the main menu N to try anothet search
+> [!NOTE]
+> Use caps Y or N to enteract or it will assume it as a yes
+
+
 ### Changeing the UI color
 
 chose 6 on the man menu by typing 6 in the console.
